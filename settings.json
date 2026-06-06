@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzuBhai",
+    "username": "botdegerson",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 27654,
+    "ip": "Amazongg.aternos.me",
+    "port": 60538,
     "version": "1.21.1",
     "try-creative": false
   },
